@@ -67,6 +67,10 @@ h1 {
     background-color: #E4405F;
 }
 
+.bluesky {
+    background-color: #0070ff;
+}
+
 /* Media query for mobile devices */
 @media (max-width: 768px) {
     .social-buttons {
